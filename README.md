@@ -17,3 +17,5 @@ Country와 함께하는 Git 교실
 - rebase fast-forward
 
 - master - rebase auto merge
+
+- pr 실습
